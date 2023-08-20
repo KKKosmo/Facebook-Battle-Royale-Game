@@ -7,3 +7,7 @@ The idea was to get the list of one's facebook friends and save it into a file u
 The game is semi functional and has a prototype built already. However, in order to change the list of names, the game needs to be built again.
 
 Also there are no different abilities and appearances yet.
+
+
+I learned about file handling, json files, encryption
+The "game master" can be improved, has bugs and lacks controls
